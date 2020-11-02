@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dapparao
+Build-Jdk: 14.0.2
+Implementation-Title: Heroku GDPR Test Updated
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/amz-gdpr-test/
+Created-By: Maven Integration for Eclipse
+
