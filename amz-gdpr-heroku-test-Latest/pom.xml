@@ -5,8 +5,8 @@
 
 	<artifactId>amz-gdpr-test</artifactId>
 	<packaging>war</packaging>
-	<name>Heroku GDPR Test Updated</name>
-	<description>Heroku GDPR Test Updated</description>
+	<name>Heroku GDPR Test</name>
+	<description>Heroku GDPR Test</description>
 	<version>1.0</version>
 
 	<parent>
